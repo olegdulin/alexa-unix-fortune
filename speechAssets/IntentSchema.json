@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "UnixFortuneIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

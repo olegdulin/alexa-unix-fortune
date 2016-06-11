@@ -1,0 +1,9 @@
+UnixFortuneIntent tell me a fortune
+UnixFortuneIntent read me a fortune
+UnixFortuneIntent give me a fortune
+UnixFortuneIntent tell me a quote
+UnixFortuneIntent read me a quote
+UnixFortuneIntent give me a quote
+UnixFortuneIntent say something
+UnixFortuneIntent say something cool
+UnixFortuneIntent tell me something cool

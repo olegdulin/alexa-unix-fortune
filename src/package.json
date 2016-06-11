@@ -1,0 +1,11 @@
+{
+  "name": "alexa-unix-fortune",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+
+  },
+  "dependencies": {
+    "fortune-teller":"*"
+  }
+}
